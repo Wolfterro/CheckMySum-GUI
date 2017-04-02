@@ -26,8 +26,8 @@ SOFTWARE.
 
 #===================================
 # Criado por: Wolfterro
-# Versão: 1.0.1-CUSTOM - Python 2.x
-# Data: 02/04/2017
+# Versão: 1.0.0-CUSTOM - Python 2.x
+# Data: 01/04/2017
 #===================================
 
 # Imports gerais
@@ -118,7 +118,6 @@ class CheckMySum(object):
 					Algo.update(f)
 					self.ui.progressBar.setProperty("value", 
 						(float(CalculatedSoFar) / float(self.FilenameSize)) * 100)
-					QtGui.QApplication.processEvents()
 			
 			if self.isUpperCase:
 				self.Hash = Algo.hexdigest().upper()

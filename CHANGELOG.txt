@@ -1,0 +1,18 @@
+CheckMySum GUI
+==============
+
+Um simples visualizador de checksum em PyQt4! 
+---------------------------------------------
+
+CHANGELOG:
+==========
+
+VERSÃO 1.0.1:
+- Corrigido problema de congelamento aleatório da janela do programa quando processo de cálculo de hash é iniciado.
+
+#------------------------------------------------------------------------------------------------------------------
+
+VERSÃO 1.0.0:
+- Versão inicial do programa.
+
+#------------------------------------------------------------------------------------------------------------------
