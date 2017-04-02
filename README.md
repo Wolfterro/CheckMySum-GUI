@@ -21,6 +21,8 @@
 
 ![CheckMySum GUI](http://i.imgur.com/HJ3gcr6.png)
 
+### [Verifique o CHANGELOG.txt para maiores informações sobre novas versões!](https://raw.github.com/Wolfterro/CheckMySum-GUI/master/CHANGELOG.txt)
+
 ### Requerimentos:
 
 #### Compilando:
@@ -42,5 +44,5 @@
 ### Download:
 
 ##### **OBS**: Arquivos binários não requerem que você possua o Python ou o PyQt4 instalados!
-#### ***Binário (Windows):*** https://github.com/Wolfterro/CheckMySum-GUI/releases/tag/v1.0.0-Windows
+#### ***Binário (Windows):*** https://github.com/Wolfterro/CheckMySum-GUI/releases/tag/v1.0.1-Windows
 #### ***Código-fonte:*** https://github.com/Wolfterro/CheckMySum-GUI/archive/master.zip
