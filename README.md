@@ -44,5 +44,5 @@
 ### Download:
 
 ##### **OBS**: Arquivos binários não requerem que você possua o Python ou o PyQt4 instalados!
-#### ***Binário (Windows):*** https://github.com/Wolfterro/CheckMySum-GUI/releases/tag/v1.0.1-Windows
+#### ***Binário (Windows):*** https://github.com/Wolfterro/CheckMySum-GUI/releases/tag/v1.0.2-Windows
 #### ***Código-fonte:*** https://github.com/Wolfterro/CheckMySum-GUI/archive/master.zip
