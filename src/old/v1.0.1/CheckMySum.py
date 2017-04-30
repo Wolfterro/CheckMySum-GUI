@@ -26,8 +26,8 @@ SOFTWARE.
 
 #===================================
 # Criado por: Wolfterro
-# Versão: 1.0.2-CUSTOM - Python 2.x
-# Data: 30/04/2017
+# Versão: 1.0.1-CUSTOM - Python 2.x
+# Data: 02/04/2017
 #===================================
 
 # Imports gerais
@@ -63,7 +63,7 @@ class CheckMySum(object):
 	def __init__(self, ui, Algorithm, Filename, isUpperCase, HashFileGen, ReplaceHashFileGen):
 		self.ui = ui
 		self.Algorithm = Algorithm
-		self.Filename = unicode(Filename)
+		self.Filename = Filename
 		self.isUpperCase = isUpperCase
 		self.HashFileGen = HashFileGen
 		self.ReplaceHashFileGen = ReplaceHashFileGen

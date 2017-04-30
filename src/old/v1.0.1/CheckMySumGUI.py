@@ -26,8 +26,8 @@ SOFTWARE.
 
 #===================================
 # Criado por: Wolfterro
-# Versão: 1.0.2 - Python 2.x
-# Data: 30/04/2017
+# Versão: 1.0.1 - Python 2.x
+# Data: 02/04/2017
 #===================================
 
 # Imports gerais
